@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flip Card Links</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="card">
+            <div class="card-inner">
+                <div class="card-front">
+                    <h2>Muffin Group</h2>
+                </div>
+                <div class="card-back">
+                    <a href="https://muffingroup.com/blog/cafe-websites/" target="_blank">Visit Muffin Group</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-inner">
+                <div class="card-front">
+                    <h2>Site Builder Report</h2>
+                </div>
+                <div class="card-back">
+                    <a href="https://www.sitebuilderreport.com/inspiration/cafe-coffee-shop-websites" target="_blank">Visit Site Builder Report</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-inner">
+                <div class="card-front">
+                    <h2>Virtual Cafe</h2>
+                </div>
+                <div class="card-back">
+                    <a href="https://virtualcafe.me/" target="_blank">Visit Virtual Cafe</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
