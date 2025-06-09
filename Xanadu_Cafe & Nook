@@ -1,0 +1,105 @@
+
+<html>
+
+ <head>
+ <meta charset="UTF-8">
+ <title>Xanadu_Cafe & Nook!</title>
+
+
+<style>
+h1, h3, pre {
+text-align: center;
+}
+
+body {
+font-family: Arial, sans-serif;
+background-color: #fdf6f0;
+margin: 20px;
+}
+
+
+img {
+display: block;
+margin: 0 auto;
+max-width: 80%;
+height: auto;
+border-radius: 10px;
+}
+
+li {
+margin-bottom: 5px;
+}
+</style>
+
+ </head>
+
+  <body>
+
+  <h1>Leaves, Pages, Bites, & Bytes!</h1>
+   <p style="color:purple;">
+
+      Welcome to the Xanadu_Cafe & Nook! It is a cyber-bookstore-nature cafe maintained through sustainable management and policies to ensure the peace for
+      digital users, book lovers, those who prefer a cup of coffee and a piece of yummy cake as a getaway from urban lifestyles as well as stressful 
+      pressures from schools and/or work.
+</p>
+  
+ 
+  <img src="Logo design for 'Xanadu_Cafe  Nook', a serene, eco-conscious cyber café and bookstore. The logo sho.jpeg" alt="Xanadu_Cafe & Nook Logo" width="400">
+   
+   <h2 style="color:lightskyblue;">Our Offerings</h2>
+   <ul>
+   <li>Lounges for coffee, reading, and chats with other people</li>
+   <li>Bookstores by walls for literary authenticity in the digital world</li>
+   <li>Artificial trees with WiFi routers for internet connectivity</li>
+   <li>Real trees for air circulation and nourishing smells of nature</li>
+   <li>Private computers for people with no technological resources</li>
+   <li>Eco-friendly packaging for food and drinks and compositing bins for leftovers for local agricultural practices</li>
+   </ul>
+   
+
+
+   <section>
+   <h2 style="color:lightskyblue;">Menu - Food</h2>
+
+      <ul>
+      <li>Chocolate Fudge Cake</li>
+      <li>Classic Cakes (regular, marble, coffee, blueberry, lemon)</li>
+      <li>Red Velvet Cake</li>
+      <li>Black/White Forest Cake</li>
+      <li>Classic Pancakes</li>
+      <li>Sandwiches (breakfast and lunch with vegan meat)</li>
+      <li>Soups (pumpkin, chicken, noodles, bone, ramen, tomato)</li>
+      <li>Ice-creams and sundaes (made with organic ingredients)</li>
+      <li>Salads (both fruits and vegetables)</li>
+      <li>Bread Treats (crossaints, muffins, cinnamon rolls)</li>
+      </ul>
+
+   </section>
+
+
+   <section>
+   <h2 style="color:lightskyblue;">Menu - Drinks </h2>
+
+      <ul>
+      <li>Coffee (regular, espresso, capuccino, mocha, latte, macchiato, americano)</li>
+      <li>Iced Coffee (iced regular, iced latte, iced mocha, iced macchiato)</li>
+      <li>Tea (regular, herbal, ginger)</li>
+      <li>Iced Tea (iced regular, iced herbal, iced ginger, iced Arnold Palmer)</li>
+      <li>Fruit Juices (apple, mango, pinapple, passion, red/green grape, tropical, orange)</li>
+      <li>Carbonated Soft Drinks (in respect to the ecosystem)</li>
+      <li>Hot Chocolate</li>
+      <li>Lemonades (regular, strawberry, blueberry, pinapple, peach, mango)</li>
+      <li>Smoothies (both fruits and vegetables)</li>
+      <li>Xanadu Mix (our special smoothie mixed with exotic fruits and herbs)</li>
+      </ul>
+
+   </section>
+
+    <p style="color:lightsalmon;">If you're not satified or disinterested in our business, please check out the links below for broader options of cafes to find that may suit your needs.</p>
+    <a href="https://muffingroup.com/blog/cafe-websites/" target="_blank">Muffin Group</a><br>
+    <a href="https://www.sitebuilderreport.com/inspiration/cafe-coffee-shop-websites" target="_blank">Site Builder Report</a><br>
+    <a href="https://virtualcafe.me/" target="_blank">Virtual Cafe</a>
+
+    <p style="color:purple;">Thank you for your visit to our website! Have a prosperous time!</p>
+    </body>
+</html>
